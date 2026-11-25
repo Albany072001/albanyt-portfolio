@@ -1,0 +1,7 @@
+# Albany Tafuro
+> Front-end developer, UI/UX Designer & student at Broward College. Builds accessible web apps; competes in hackathons, designs web apps.
+
+## Pages
+- [About](https://github.com/Albany072001): background, education, career timeline
+- [Projects](hhttps://github.com/Albany072001?tab=repositories): class, personal and hackathon projects
+- [Resume](https://albany072001.github.io/assets/resume.pdf)
