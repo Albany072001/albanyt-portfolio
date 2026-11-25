@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://albany072001.github.io/sitemap.xml
